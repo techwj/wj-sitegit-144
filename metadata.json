@@ -1,0 +1,59 @@
+{
+  "siteId": "balcony-storage-laundry-drying-misc",
+  "generatedAt": "2026-06-04T11:34:57.788887",
+  "categories": [
+    "beginner-balcony-storage-laundry-drying-misc",
+    "advanced-balcony-storage-laundry-drying-misc",
+    "tips-balcony-storage-laundry-drying-misc",
+    "history-balcony-storage-laundry-drying-misc",
+    "trending-balcony-storage-laundry-drying-misc",
+    "tutorials-balcony-storage-laundry-drying-misc"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-balcony-storage-laundry-drying-misc",
+      "category_name": "Beginner Balcony Storage Laundry Drying Misc"
+    },
+    {
+      "category_slug": "advanced-balcony-storage-laundry-drying-misc",
+      "category_name": "Advanced Balcony Storage Laundry Drying Misc"
+    },
+    {
+      "category_slug": "tips-balcony-storage-laundry-drying-misc",
+      "category_name": "Balcony Storage Laundry Drying Misc Tips"
+    },
+    {
+      "category_slug": "history-balcony-storage-laundry-drying-misc",
+      "category_name": "Balcony Storage Laundry Drying Misc History"
+    },
+    {
+      "category_slug": "trending-balcony-storage-laundry-drying-misc",
+      "category_name": "Trending Balcony Storage Laundry Drying Misc"
+    },
+    {
+      "category_slug": "tutorials-balcony-storage-laundry-drying-misc",
+      "category_name": "Balcony Storage Laundry Drying Misc Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "balcony-storage-laundry-drying-misc",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered",
+    "site_title": "Balcony Storage Laundry Drying Misc Central",
+    "articles_per_row": 2
+  }
+}
